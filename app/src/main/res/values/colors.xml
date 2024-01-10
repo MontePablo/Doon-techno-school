@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="transparent">#00EAE5F9</color>
+
+
+    <color name="col1">#FFFFFF</color>
+    <color name="col2_900">#006449</color>
+    <color name="col2_800">#45AF93</color>
+    <color name="col2_700">#87FADB</color>
+    <color name="col3">#FF7E5B</color>
+    <color name="col4">#E31E25</color>
+
+</resources>
